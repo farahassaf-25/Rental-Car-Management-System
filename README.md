@@ -3,8 +3,8 @@ A desktop application built with JavaFx and MySQL to manage all the functions of
 of new cars, and rental cars with their due dates.It tracks the records of the number of cars, how many cars have been returned or rented.
 
 Installation:
-Download the project from github to your desktop:
-. With Git: if you're familiar with git and have it installed on your computer, you can clone the repository to download the files
+- Download the project from github to your desktop:
+ - With Git: if you're familiar with git and have it installed on your computer, you can clone the repository to download the files
   1- Click the green button labeled Code
   2- Copy the URL of this repository
   3- Next, on your local machine, open your bash shell and change your current working directory to the location where where you would like to clone your repository
@@ -13,7 +13,7 @@ Download the project from github to your desktop:
       $ git clone https://github.com/FarahAssaf/Rental-Car-Management-System.git
   5- when you run (git clone https://github.com/FarahAssaf/Rental-Car-Management-System.git) you should see the output.
   
-. Without git: after downloading materials to your laptop, it is easiest to download the entire repository.
+ - Without git: after downloading materials to your laptop, it is easiest to download the entire repository.
   - Only download the Zip file
   
 Guide to run this project:
