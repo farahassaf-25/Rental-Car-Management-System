@@ -1,26 +1,11 @@
-Rental Car Management System
 A desktop application built with JavaFx and MySQL to manage all the functions of a rental car system. It help the admin to maintain the database 
 of new cars, and rental cars with their due dates.It tracks the records of the number of cars, how many cars have been returned or rented.
-
-Installation:
-- Download the project from github to your desktop:
- - With Git: if you're familiar with git and have it installed on your computer, you can clone the repository to download the files
-  1- Click the green button labeled Code
-  2- Copy the URL of this repository
-  3- Next, on your local machine, open your bash shell and change your current working directory to the location where where you would like to clone your repository
-      $ cd "path"
-  4- Once you have navigated to the directory where you want to put your repository, you can use:
-      $ git clone https://github.com/FarahAssaf/Rental-Car-Management-System.git
-  5- when you run (git clone https://github.com/FarahAssaf/Rental-Car-Management-System.git) you should see the output.
-  
- - Without git: after downloading materials to your laptop, it is easiest to download the entire repository.
-  - Only download the Zip file
   
 Guide to run this project:
 - install xampp and start it
 - create a database name : db1
 - import the db1.sql file
-- extract zip file
+- extract zip file after download it
 - open project in netbeans
 - use mysql-connector-java-8.0.19 
 - use fxml scene builder
