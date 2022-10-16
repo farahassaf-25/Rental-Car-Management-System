@@ -1,7 +1,4 @@
-A desktop application built with JavaFx and MySQL to manage all the functions of a rental car system. It help the admin to maintain the database 
-of new cars, and rental cars with their due dates.It tracks the records of the number of cars, how many cars have been returned or rented.
-  
-Guide to run this project:
+# Guide to run this project:
 - install xampp and start it
 - create a database name : db1
 - import the db1.sql file
@@ -12,7 +9,7 @@ Guide to run this project:
 Username: admin
 Password: admin
 
-Usage:
+# Usage:
 (All records will be saved in database)
 - Login page:
 ![Screenshot (1532)](https://user-images.githubusercontent.com/112881147/195342365-d2adf2e8-7594-4f4b-98cf-644a76ecb014.png)
