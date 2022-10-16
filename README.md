@@ -2,8 +2,8 @@
 - install xampp and start it
 - create a database name : db1
 - import the db1.sql file
-- extract zip file after download it
-- open project in netbeans
+- download zip file and extract it
+- open project in netbeans(or any ide)
 - use mysql-connector-java-8.0.19 
 - use fxml scene builder
 Username: admin
